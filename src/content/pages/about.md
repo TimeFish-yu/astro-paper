@@ -1,37 +1,62 @@
 ---
-title: "About"
-description: "A bit about me and this blog."
+title: "关于我"
+description: "关于 Zane 和这个博客"
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+# 关于我 / About Me
 
-![Astro Paper](@/assets/images/astropaper-og.jpg)
+你好！我是 **Zane**，一个对技术充满热情、喜欢探索数字世界的普通人。📱💻
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+## 🎯 我是谁
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+- 📍 **位置**：中国山东
+- 💼 **身份**：技术爱好者、摄影爱好者
+- 🎮 **爱好**：摄影、游戏、科技数码
+- 📚 **学习**：对技术开发充满兴趣，喜欢尝试新工具和新技术
 
-## Features
+## 🛠️ 我的兴趣领域
 
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
+### 📱 科技数码
 
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
+我对科技产品很感兴趣。喜欢体验新技术带来的便利。🎧
 
-and so much more.
+### 📷 摄影
 
-## Show your support
+我喜欢用镜头记录生活中的美好瞬间。📸
 
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
+### 🎮 游戏
 
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
+偶尔玩一些游戏放松心情。🎮
 
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
+## 💻 技术栈
 
-Kyay zuu! 🙏🏼
+我是一个技术爱好者，喜欢折腾各种工具：
+
+- 📝 **笔记工具**：Obsidian、Gridea
+- 🛠️ **开发工具**：VS Code、Qoder CN、Android Studio
+- 📊 **效率工具**：QoderWork
+
+## 🚀 我的博客
+
+这个博客使用 [AstroPaper](https://github.com/satnaing/astro-paper) 主题构建：
+
+- 🎨 **主题**：AstroPaper（基于 Astro，极简写作向）
+- 🚀 **部署**：Vercel（自动构建+CDN）
+- 🔗 **域名**：astro-paper.vercel.app
+- 📝 **内容**：技术分享、生活记录、学习笔记
+
+
+## 📞 联系方式
+
+如果你想和我交流技术问题、分享有趣的想法，或者只是想打个招呼，欢迎通过以下方式联系我：
+
+- 💬 **博客留言**：在文章下方评论区留言
+- 📧 **邮箱**：[mzane@foxmail.com](mailto:mzane@foxmail.com)
+
+## 🙏 致谢
+
+感谢你访问我的博客！希望这里的内容对你有所帮助。
+
+---
+
+*最后更新：2026年4月7日*
