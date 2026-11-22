@@ -8,7 +8,7 @@ export default defineAstroPaperConfig({
     author: "Zane",
     profile: "https://github.com/TimeFish-yu",
     ogImage: "default-og.jpg",
-    lang: "zh_CN",
+    lang: "zh-CN",
     timezone: "Asia/Shanghai",
     dir: "ltr",
   },

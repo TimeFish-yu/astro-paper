@@ -33,8 +33,11 @@ export default defineConfig({
     inlineTocDeprecation(),
   ],
   i18n: {
-    locales: ["en"],
-    defaultLocale: "en",
+    // 跟随站点配置的语言，避免 config.site.lang 与 i18n.locales 不一致
+    // 导致 getRelativeLocaleUrl 抛 MissingLocale（RSS 生成会用到）。
+    // 与 src/config.ts 保持一致，缺省回退到 "en"。
+    locales: [config.site.lang ?? "en"],
+    defaultLocale: config.site.lang ?? "en",
     routing: {
       prefixDefaultLocale: false,
     },
